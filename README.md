@@ -41,3 +41,28 @@ The dataset mimics a real-world product inventory table, containing:
 - Q6: Category-wise average MRP, selling price, and discount %
 - Bonus: Top 10 unique discount % values using ROW_NUMBER() window function
 
+✅ **Advanced SQL Concepts Used**
+- Common Table Expressions (CTEs)
+- Aggregate functions (SUM, AVG, MAX, ROUND)
+- Window functions (ROW_NUMBER() OVER (PARTITION BY ...))
+- Data type conversions and safe filtering
+- Grouping and ordering logic
+
+💡 **Insights Extracted**
+- Some categories like **Cooking Essentials** hold the majority of total inventory value
+- Products like **salt, potatoes, onions** offer the highest grams per rupee
+- **Fruits & Vegetables** category offers the highest average discount percentage
+- **453 products** are currently out of stock — which may impact availability
+- Some products are inconsistently labeled as **outOfStock** while still showing stock
+
+stock
+
+🎯 Why This Project Matters
+This project demonstrates how SQL can be used for business decision-making, not just data extraction. It simulates a real retail analytics task you might find in a company like Zepto, BigBasket, or Blinkit — where operations, marketing, and product teams rely on inventory insights to:
+- Optimize pricing
+- Improve product availability
+- Increase margins
+- Prioritize restocking
+
+
+
