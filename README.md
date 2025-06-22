@@ -55,10 +55,8 @@ The dataset mimics a real-world product inventory table, containing:
 - **453 products** are currently out of stock — which may impact availability
 - Some products are inconsistently labeled as **outOfStock** while still showing stock
 
-stock
-
-🎯 Why This Project Matters
-This project demonstrates how SQL can be used for business decision-making, not just data extraction. It simulates a real retail analytics task you might find in a company like Zepto, BigBasket, or Blinkit — where operations, marketing, and product teams rely on inventory insights to:
+🎯 **Why This Project Matters**
+This project demonstrates **how SQL can be used for business decision-making**, not just data extraction. It simulates a real retail analytics task you might find in a company like Zepto, BigBasket, or Blinkit — where operations, marketing, and product teams rely on inventory insights to:
 - Optimize pricing
 - Improve product availability
 - Increase margins
