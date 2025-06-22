@@ -39,7 +39,6 @@ The dataset mimics a real-world product inventory table, containing:
 - Q4: Products marked "out of stock" but still showing available quantity
 - Q5: Products offering the best value (highest grams per ₹)
 - Q6: Category-wise average MRP, selling price, and discount %
-- Bonus: Top 10 unique discount % values using ROW_NUMBER() window function
 
 ✅ **Advanced SQL Concepts Used**
 - Common Table Expressions (CTEs)
