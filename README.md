@@ -9,7 +9,7 @@ The dataset mimics a real-world product inventory table, containing:
 - MRP (maximum retail price)
 - Discounted selling price
 - Available stock quantity
-- Net weight per package
+- Net weight per package (weightInGms)
 - Units per package (quantity)
 - Stock status (outOfStock flag)
 
