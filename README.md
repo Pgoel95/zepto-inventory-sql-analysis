@@ -17,7 +17,7 @@ The dataset mimics a real-world product inventory table, containing:
 
 - Clean and prepare raw inventory data for analysis
 - Convert price values from paisa to rupees
-- Identify out-of-stock or mislabelled items
+- Identify out-of-stock or mislabeled items
 - Calculate inventory value across categories
 - Find high-discount and high-value products
 - Derive pricing efficiency metrics (e.g., grams per rupee, ₹ per unit)
