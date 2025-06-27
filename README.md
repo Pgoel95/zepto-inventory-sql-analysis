@@ -52,7 +52,7 @@ The dataset mimics a real-world product inventory table, containing:
 - Products like **salt, potatoes, onions** offer the highest grams per rupee
 - **Fruits & Vegetables** category offers the highest average discount percentage
 - **453 products** are currently out of stock — which may impact availability
-- Some products are inconsistently labeled as **outOfStock** while still showing stock
+- **No logical mismatches** found between stock status and quantity - indicating **strong data integrity**
 
 🎯 **Why This Project Matters**
 
